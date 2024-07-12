@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Momenprofile/static/css/main.e7371a14.css",
+    "main.css": "/Momenprofile/static/css/main.a667ad12.css",
     "main.js": "/Momenprofile/static/js/main.b7416481.js",
     "static/media/R.png": "/Momenprofile/static/media/R.fb59dfc6bb1bac6b0ad0.png",
     "static/media/git-icon-logo-png-transparent.png": "/Momenprofile/static/media/git-icon-logo-png-transparent.0983b7b8f96629e083f1.png",
@@ -8,11 +8,11 @@
     "static/media/bootstrap-logo.png": "/Momenprofile/static/media/bootstrap-logo.3c4e1a5d3a149087b144.png",
     "static/media/logo-css-3-2048.png": "/Momenprofile/static/media/logo-css-3-2048.bc75ccc78e3bf74f8aed.png",
     "index.html": "/Momenprofile/index.html",
-    "main.e7371a14.css.map": "/Momenprofile/static/css/main.e7371a14.css.map",
+    "main.a667ad12.css.map": "/Momenprofile/static/css/main.a667ad12.css.map",
     "main.b7416481.js.map": "/Momenprofile/static/js/main.b7416481.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7371a14.css",
+    "static/css/main.a667ad12.css",
     "static/js/main.b7416481.js"
   ]
 }
